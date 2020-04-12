@@ -9,4 +9,7 @@ Choose any of currency type you want to convert above mentioned value using the 
 Click “Convert” Button.
 Then the app will display the converted value below
 
-
+dependencies {
+  
+    implementation 'com.squareup.okhttp:okhttp:2.5.0'    
+}
